@@ -3,8 +3,8 @@
 This repository contains various machine learning algorithms implemented as part of coursework. It covers both supervised and unsupervised learning techniques, each organized in separate directories.
 
 ## Student Information
-- **Name**: Mohammed Saqib B.
-- **RRN**: 230282601082
+- **Name**: Suriya S
+- **RRN**: 230282601118
 - **Subject Code**: CAE7124
 - **Subject Name**: Machine Learning Tehniques
 - **Date**: 09.11.2024
